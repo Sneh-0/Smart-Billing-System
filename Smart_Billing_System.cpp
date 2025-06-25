@@ -104,7 +104,7 @@ int main()
         cin >> item.name;
         cout << "Price (in Rs): ";
         cin >> item.price;
-        cout << "Quantity (in Kg): ";
+        cout << "Quantity : ";
         cin >> item.quantity;
         bill.addItem(item);
     }
