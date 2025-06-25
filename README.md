@@ -26,15 +26,16 @@ A console-based billing application developed in **C++** that generates itemized
 
 ## 📂 File Structure
 
-Smart-Billing-System/
-├── smart_billing.cpp       # Main source code
-├── README.md               # Project documentation
-└── sample_bill.txt         # Sample generated bill
+Smart-Billing-System/<br>
 
-📄 License
+Smart_Billing_System.cpp       # Main source code<br>
+README.md               # Project documentation<br>
+sample_bill.txt         # Sample generated bill<br>
+
+📄 License<br>
 This project is open-source and free to use for educational purposes.
 
-🙋‍♂️ Author
-Sneh Shah
-🔗 LinkedIn • 💻 GitHub
+🙋‍♂️ Author<br>
+Sneh Shah<br>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sneh-shah-575656322/)
 
